@@ -12,7 +12,7 @@
           <td>한승엽</td>
           <td>최태희</td>
           <td>최 준</td>
-          <td>이윤식</td>
+          <td>이윤식2</td>
         </tr>
       </tbody>
 </table>
