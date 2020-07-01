@@ -1,21 +1,21 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
         </tr>
       </tbody>
-</table>
+</table>:
 
 ## 땅따먹기 게임
 
