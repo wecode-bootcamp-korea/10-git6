@@ -1,19 +1,19 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>한승엽</td>
+          <td>최태희</td>
+          <td>최태희</td>
+          <td>최태희</td>
+          <td>하이</td>
+          <td>헬로우</td>
         </tr>
         <tr>
-          <td>한승엽</td>
+          <td>바이</td>
+          <td>바이루</td>
           <td>이름</td>
           <td>이름</td>
-          <td>한승엽</td>
-          <td>한승엽</td>
-        </tr>   
+          <td>이름</td>
+        </tr>
       </tbody>
 </table>
 
