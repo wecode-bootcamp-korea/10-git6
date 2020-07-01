@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>최준</td>
-          <td>최준</td>
-          <td>최준</td>
-          <td>최준</td>
-          <td>최준</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
         </tr>
         <tr>
-					<td>최준</td>
-          <td>최준</td>
-          <td>최준</td>
-          <td>최준</td>
-          <td>최준</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
         </tr>
       </tbody>
 </table>
