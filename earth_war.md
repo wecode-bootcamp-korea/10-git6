@@ -1,21 +1,22 @@
 <table>
       <tbody>
-        <tr>
-          <td>최태희</td>
-          <td>최태희</td>
-          <td>최태희</td>
-          <td>하이</td>
-          <td>헬로우</td>
+        <tr>D
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
         </tr>
         <tr>
-          <td>바이</td>
-          <td>바이루</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-        </tr>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+          <td>이태성</td>
+	</tr>
       </tbody>
 </table>
+>>>>>>> f7f7e764539ca03507307f9883570d2a7e97be72
 
 ## 땅따먹기 게임
 
