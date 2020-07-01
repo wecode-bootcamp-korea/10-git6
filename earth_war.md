@@ -1,8 +1,8 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이윤식</td>
+          <td>이윤식</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
