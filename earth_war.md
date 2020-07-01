@@ -1,22 +1,21 @@
 <table>
       <tbody>
-        <tr>D
-          <td>이태성</td>
-          <td>이태성</td>
-          <td>이태성</td>
-          <td>이태성</td>
-          <td>이태성</td>
-        </tr>
         <tr>
           <td>이태성</td>
-          <td>이태성</td>
-          <td>이태성</td>
-          <td>이태성</td>
-          <td>이태성</td>
-	</tr>
+          <td>한승엽</td>
+          <td>최태희</td>
+          <td>최 준</td>
+          <td>이윤식</td>
+        </tr>
+        <tr>
+					<td>이태성</td>
+          <td>한승엽</td>
+          <td>최태희</td>
+          <td>최 준</td>
+          <td>이윤식</td>
+        </tr>
       </tbody>
 </table>
->>>>>>> f7f7e764539ca03507307f9883570d2a7e97be72
 
 ## 땅따먹기 게임
 
