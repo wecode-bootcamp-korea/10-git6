@@ -1,6 +1,6 @@
 <table>
       <tbody>
-        <tr>
+        <tr>D
           <td>이태성</td>
           <td>이태성</td>
           <td>이태성</td>
@@ -13,8 +13,7 @@
           <td>이태성</td>
           <td>이태성</td>
           <td>이태성</td>
-        </tr>
-      </tbody>
+	</tr>
 </table>:
 
 ## 땅따먹기 게임
