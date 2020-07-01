@@ -8,12 +8,12 @@
           <td>한승엽</td>
         </tr>
         <tr>
-          <td>이름</td>
+          <td>한승엽</td>
           <td>이름</td>
           <td>이름</td>
           <td>한승엽</td>
           <td>한승엽</td>
-        </tr>
+        </tr>   
       </tbody>
 </table>
 
